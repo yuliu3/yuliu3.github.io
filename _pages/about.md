@@ -18,6 +18,7 @@ redirect_from:
 
 News
 =====
+**July 2023:** Paper on "[Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing](https://doi.org/10.1145/3610251.3610554)" accepted to ACM QuNet.
 
 **June 2023:** Paper on "[Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge](https://doi.org/10.1109/TMC.2023.3285882)" accepted to IEEE TMC.
 
