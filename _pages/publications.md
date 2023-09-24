@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Papers
 Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
-<be> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
+<br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
 IEEE Transactions on Mobile Computing (**TMC**), 2023.
 
 Availability Aware Online Virtual Network Function Backup in Edge Environments
