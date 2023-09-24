@@ -12,6 +12,8 @@ author_profile: true
 
 **Xidian University**, Xi'an, Aug. 2012 - Jun. 2016 \
 -- B.E. in Telecommunications Engineering\
+-- Honored with the National Scholarship Award\
+-- Ranked second out of 500+ students in terms of GPA\
 <br />
 
 Experiences
