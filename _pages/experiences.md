@@ -25,10 +25,10 @@ Experiences
 
 
 **Teaching Assistant at ECE, Stony Brook University**, Aug. 2017 - April. 2023 \
--- ESE 123 Introduction to Electrical and Computer Engineering\
--- ESE 118 Digital Logic Design\
--- ESE 342 Communication Systems\ 
--- ESE 372 Electronics
+* ESE 123 Introduction to Electrical and Computer Engineering\
+* ESE 118 Digital Logic Design\
+* ESE 342 Communication Systems\ 
+* ESE 372 Electronics\
 
 Services
 =====
