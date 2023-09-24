@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles's homepage"
+title                    : "Yu's homepage"
 title_separator          : "-"
-name                     : &name "Haiwen Cao"
-description              : &description "Researcher at Theory Lab, Huawei HKRC"
-url                      : https://caohaiwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yu Liu"
+description              : &description "Ph.D. Candidate, Stony Brook University"
+url                      : https://yuliu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caohaiwen.github.io"
+repository               : "yuliu3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haiwen Cao"
+  name             : "Yu Liu"
   avatar           : "profile.png"
-  bio              : "Researcher at Theory Lab, Huawei HKRC"
-  location         : "Hong Kong, China"
+  bio              : "Ph.D. Candidate, Stony Brook University"
+  location         : "Stony Brook, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=A63gBNAAAAAJ"
-  email            : haiwen.cao94@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=CAVBtMgAAAAJ&hl=en"
+  email            : liuyuxdu@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Haiwen-Cao"
   uri              :
   bitbucket        :
@@ -96,20 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "caohaiwen"
+  github           : "yuliu3"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "haiwen-cao"
-  orcid            : "https://orcid.org/0000-0003-1178-1204"
+  linkedin         : "yu-liu-1142091b0"
+  orcid            : "https://orcid.org/0000-0003-3267-6497"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    :
   tumblr           :
-  twitter          : "CaoHaiwen"
+  twitter          :
   vine             :
   weibo            :
   xing             :
