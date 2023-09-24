@@ -33,19 +33,19 @@ Energy-Aware Online Task Offloading and Resource Allocation for Mobile Edge Comp
 Proceedings of the International Conference on Distributed Computing Systems (**ICDCS '23**), Hong Kong.
 
 Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
-<br> <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br>
+<br> <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br> 
 IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
 
 Qubit Allocation for Distributed Quantum Computing
-<br> Yingling Mao, <u>Yu Liu</u>, and Yuanyuan Yang.  <br>
+<br> Yingling Mao, <u>Yu Liu</u>, and Yuanyuan Yang.  <br> 
 IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
 
 Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing
-<br> Xiaojun Shang, Yingling Mao, <u>Yu Liu</u>, Yaodong Huang, Zhenhua Liu, and Yuanyuan Yang.  <br>
+<br> Xiaojun Shang, Yingling Mao, <u>Yu Liu</u>, Yaodong Huang, Zhenhua Liu, and Yuanyuan Yang.  <br> 
 IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
 
 Distributed Cooperative Caching in Unreliable Edge Environments
-<br> <u>Yu Liu</u>, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang.  <br>
+<br> <u>Yu Liu</u>, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang.  <br> 
 IEEE Conference on Computer Communications (**INFOCOM '22**), Virtual.
 
 Online Cloud Resource Provisioning Under Cost Budget for QoS Maximization
