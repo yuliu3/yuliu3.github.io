@@ -10,11 +10,9 @@ redirect_from:
 
 * I am currently a Ph.D. candidate in the ECE department at Stony Brook University, fortunately advised by Prof. [Yuanyuan Yang]([http://www.ece.sunysb.edu/~yang/]).
 
-* I earned my Ph.D. degree from the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
+* Prior to that, I received a Bachelor's degree in communications engineering from [Xidian University], Xi'an, China.
 
-* Prior to that, I received a Bachelor's degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), Harbin, China.
-
-* My research interests are centered around coding theory, signal processing, and statistical inference.
+* My research interests are centered around edge computing and networks, edge AI, and distributed quantum computing.
 
 <br />
 
