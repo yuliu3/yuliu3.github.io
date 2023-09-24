@@ -5,13 +5,13 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**The Chinese University of Hong Kong**, Hong Kong, Aug. 2017 - Aug. 2023 \
--- Ph.D. in Information Engineering \
--- supervision by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)
+**Stony Brook University**, Hong Kong, Aug. 2017 - Aug. 2023 \
+-- Ph.D. in Computer Engineering \
+-- supervision by Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/)
 
 
-**Harbin Institute of Technology**, Harbin, Aug. 2012 - Jun. 2016 \
--- B.E. in Communications Engineering\
+**Xidian University**, Xi'an, Aug. 2012 - Jun. 2016 \
+-- B.E. in Telecommunications Engineering\
 <br />
 
 Experiences
