@@ -24,15 +24,38 @@ Online Resource Provisioning for Wireless Data Collection
 ACM Transactions on Sensor Networks (TOSN), 2021.
 
 ## Conference Papers
-Sparse Regression Codes for MIMO detection [[slides]](https://caohaiwen.github.io/files/ITW2022__Presentation.pdf) [[pdf]](https://ieeexplore.ieee.org/document/9965834)
-<br> <u>Haiwen Cao</u>, and Pascal O. Vontobel. <br>
-Proc. IEEE Int. Inf. Theory Workshop (**ITW**), Mumbai, India, Nov. 2022.
+Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
+<br> Yingling Mao, <u>Yu Liu</u>, and Yuanyuan Yang. <br>
+Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing (**QuNet '23**), NY.
 
-Using List Decoding to Improve the Finite-Length Performance of Sparse Regression Codes[[poster]](https://caohaiwen.github.io/files/Poster_CSCIT2021.pdf) [[slides]](https://caohaiwen.github.io/files/ITW2020__Presentation.pdf) [[pdf]](https://ieeexplore.ieee.org/document/9457621)
-<br> <u>Haiwen Cao</u>, and Pascal O. Vontobel.  <br>
-Proc. IEEE Int. Inf. Theory Workshop (**ITW**), Riva del Garda, Italy, Apr. 2021.
+Energy-Aware Online Task Offloading and Resource Allocation for Mobile Edge Computing
+<br> <u>Yu Liu</u>, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang.  <br>
+Proceedings of the International Conference on Distributed Computing Systems (**ICDCS '23**), Hong Kong.
 
-## Ph.D. Thesis
-Sparse Regression Codes: Techniques, Algorithms, and Applications
-<br> Department of Information Engineering, The Chinese University of Hong Kong, 2023. <br>
+Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
+<br> <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br>
+IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
 
+Qubit Allocation for Distributed Quantum Computing
+<br> Yingling Mao, <u>Yu Liu</u>, and Yuanyuan Yang.  <br>
+IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
+
+Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing
+<br> Xiaojun Shang, Yingling Mao, <u>Yu Liu</u>, Yaodong Huang, Zhenhua Liu, and Yuanyuan Yang.  <br>
+IEEE Conference on Computer Communications (**INFOCOM '23**), NJ.
+
+Distributed Cooperative Caching in Unreliable Edge Environments
+<br> <u>Yu Liu</u>, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang.  <br>
+IEEE Conference on Computer Communications (**INFOCOM '22**), Virtual.
+
+Online Cloud Resource Provisioning Under Cost Budget for QoS Maximization
+<br> <u>Yu Liu</u>, Niangjun Cheng, Zhenhua Liu, and Yuanyuan Yang.  <be>
+IEEE/ACM 29th International Symposium on Quality of Service (**IWQoS '21**)
+
+Greening reliability of virtual network functions via online optimization
+<br> Xioajun Shang, <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <be>
+IEEE/ACM 28th International Symposium on Quality of Service (**IWQoS '20**)
+
+Non-stationary stochastic network optimization with imperfect estimations
+<br> <u>Yu Liu</u>, Zhenhua Liu, and Yuanyuan Yang.  <br>
+Proceedings of the International Conference on Distributed Computing Systems (**ICDCS '19**), Dallas, Texas.
