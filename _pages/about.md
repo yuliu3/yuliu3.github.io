@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Ph.D. candidate in the ECE department at Stony Brook University, fortunately advised by Prof. [Yuanyuan Yang]([http://www.ece.sunysb.edu/~yang/]).
+* I am currently a Ph.D. candidate in the ECE department at Stony Brook University, fortunately advised by Prof. [Yuanyuan Yang](http://www.ece.sunysb.edu/~yang/).
 
-* Prior to that, I received a Bachelor's degree in communications engineering from [Xidian University], Xi'an, China.
+* Prior to that, I received a Bachelor's degree in communications engineering from Xidian University, Xi'an, China.
 
 * My research interests are centered around edge computing and networks, edge AI, and distributed quantum computing.
 
