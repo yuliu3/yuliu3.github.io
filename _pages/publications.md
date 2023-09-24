@@ -5,20 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints and Drafts
-Decoding CRC-aided Sparse Regression Codes via Exploiting Intrinsic Information
-<br><u>Haiwen Cao</u>, and Pascal O. Vontobel<br>
-
 
 ## Journal Papers
-CRC-aided Sparse Regression Codes for Unsourced Random Access [[pdf]](https://doi.org/10.1109/LCOMM.2023.3281495) [[codes]](https://github.com/caohaiwen/CRC-aided_SPARCs_for_URA)
-<br><u>Haiwen Cao</u>, Jiongyue Xing, and Shansuo Liang<br>
-IEEE Commun. Lett., vol. 27, no. 8, pp. 1944-1948, Aug. 2023.
+Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
+<br><u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
+IEEE Transactions on Mobile Computing (TMC), 2023.
 
-Using List Decoding to Improve the Finite-Length Performance of Sparse Regression Codes [[pdf]](https://ieeexplore.ieee.org/document/9398698)
-<br> <u>Haiwen Cao</u>, and Pascal O. Vontobel. <br>
-IEEE Trans. Commun., vol.69, no.7, pp.4282-4293, July 2021. 
+Availability Aware Online Virtual Network Function Backup in Edge Environments
+<br><u>Yu Liu</u>, Xiaojun Shang, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
+IEEE Transactions on Mobile Computing (TMC), 2023.
 
+Joint SFC Deployment and Resource Management in Heterogeneous Edge for Latency Minimization
+<br><u>Yu Liu</u>, Xiaojun Shang, and Yuanyuan Yang<br>
+IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021.
+
+Online Resource Provisioning for Wireless Data Collection
+<br><u>Yu Liu</u>, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang<br>
+ACM Transactions on Sensor Networks (TOSN), 2021.
 
 ## Conference Papers
 Sparse Regression Codes for MIMO detection [[slides]](https://caohaiwen.github.io/files/ITW2022__Presentation.pdf) [[pdf]](https://ieeexplore.ieee.org/document/9965834)
