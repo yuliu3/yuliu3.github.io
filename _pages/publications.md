@@ -53,7 +53,7 @@ Online Cloud Resource Provisioning Under Cost Budget for QoS Maximization
 IEEE/ACM 29th International Symposium on Quality of Service (**IWQoS '21**)
 
 Greening reliability of virtual network functions via online optimization
-<br> Xioajun Shang, <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <be>
+<br> Xioajun Shang, <u>Yu Liu</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br>
 IEEE/ACM 28th International Symposium on Quality of Service (**IWQoS '20**)
 
 Non-stationary stochastic network optimization with imperfect estimations
