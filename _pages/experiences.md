@@ -19,16 +19,10 @@ author_profile: true
 Experiences
 =====
 
-**Research Assistant at ECE, Stony Brook University**, Nov. 2022 - July. 2023 \
+**Research Assistant at ECE, Stony Brook University**, Nov. 2017 - Present \
 -- Supervisor: Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/)\
 -- Research topics: Edge Computing and Networks, Online Algorithm Design, Quantum Computing
 
-
-**Teaching Assistant at ECE, Stony Brook University**, Aug. 2017 - April. 2023 
-* ESE 123 Introduction to Electrical and Computer Engineering
-* ESE 118 Digital Logic Design
-* ESE 342 Communication Systems
-* ESE 372 Electronics
 
 Services
 =====
