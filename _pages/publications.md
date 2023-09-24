@@ -49,7 +49,7 @@ Distributed Cooperative Caching in Unreliable Edge Environments
 IEEE Conference on Computer Communications (**INFOCOM '22**), Virtual.
 
 Online Cloud Resource Provisioning Under Cost Budget for QoS Maximization
-<br> <u>Yu Liu</u>, Niangjun Cheng, Zhenhua Liu, and Yuanyuan Yang.  <be>
+<br> <u>Yu Liu</u>, Niangjun Cheng, Zhenhua Liu, and Yuanyuan Yang.  <br>
 IEEE/ACM 29th International Symposium on Quality of Service (**IWQoS '21**)
 
 Greening reliability of virtual network functions via online optimization
