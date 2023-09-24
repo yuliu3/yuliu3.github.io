@@ -26,11 +26,11 @@ ACM Transactions on Sensor Networks (**TOSN**), 2021.
 ## Conference Papers
 [5] Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, and Yuanyuan Yang. <br>
-Proceedings of the 1st Workshop on Quantum Networks and Distributed Quantum Computing (**QuNet '23**), NY.
+ACM Workshop on Quantum Networks and Distributed Quantum Computing (**QuNet '23**), NY.
 
 [6] Energy-Aware Online Task Offloading and Resource Allocation for Mobile Edge Computing
 <br> **Yu Liu**, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang.  <br>
-Proceedings of the International Conference on Distributed Computing Systems (**ICDCS '23**), Hong Kong.
+IEEE International Conference on Distributed Computing Systems (**ICDCS '23**), Hong Kong.
 
 [7] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br> 
@@ -58,4 +58,4 @@ IEEE/ACM 28th International Symposium on Quality of Service (**IWQoS '20**)
 
 [13] Non-stationary stochastic network optimization with imperfect estimations
 <br> **Yu Liu**, Zhenhua Liu, and Yuanyuan Yang.  <br>
-Proceedings of the International Conference on Distributed Computing Systems (**ICDCS '19**), Dallas, Texas.
+IEEE International Conference on Distributed Computing Systems (**ICDCS '19**), Dallas, Texas.
