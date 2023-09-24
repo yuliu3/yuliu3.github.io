@@ -9,19 +9,19 @@ author_profile: true
 ## Journal Papers
 Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
 <br><u>**Yu Liu**</u>, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
-IEEE Transactions on Mobile Computing (TMC), 2023.
+IEEE Transactions on Mobile Computing (**TMC**), 2023.
 
 Availability Aware Online Virtual Network Function Backup in Edge Environments
 <br><u>**Yu Liu**</u>, Xiaojun Shang, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
-IEEE Transactions on Mobile Computing (TMC), 2023.
+IEEE Transactions on Mobile Computing (**TMC**), 2023.
 
 Joint SFC Deployment and Resource Management in Heterogeneous Edge for Latency Minimization
 <br><u>**Yu Liu**</u>, Xiaojun Shang, and Yuanyuan Yang<br>
-IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021.
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2021.
 
 Online Resource Provisioning for Wireless Data Collection
 <br><u>**Yu Liu**</u>, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang<br>
-ACM Transactions on Sensor Networks (TOSN), 2021.
+ACM Transactions on Sensor Networks (**TOSN**), 2021.
 
 ## Conference Papers
 Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
@@ -49,7 +49,7 @@ Distributed Cooperative Caching in Unreliable Edge Environments
 IEEE Conference on Computer Communications (**INFOCOM '22**), Virtual.
 
 Online Cloud Resource Provisioning Under Cost Budget for QoS Maximization
-<br> <u>**Yu Liu**</u>, Niangjun Cheng, Zhenhua Liu, and Yuanyuan Yang.  <br>
+<br> <u>**Yu Liu**</u>, Niangjun Chen, Zhenhua Liu, and Yuanyuan Yang.  <br>
 IEEE/ACM 29th International Symposium on Quality of Service (**IWQoS '21**)
 
 Greening reliability of virtual network functions via online optimization
