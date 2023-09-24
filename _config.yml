@@ -14,7 +14,7 @@ description              : &description "Ph.D. Candidate, Stony Brook University
 url                      : https://yuliu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuliu3.github.io"
-teaser                   : "yuliu3.jpeg"
+teaser                   : "yuliu3.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
