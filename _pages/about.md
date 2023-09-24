@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a researcher at Theory Lab, Huawei Hong Kong Research Center (HKRC).
+* I am currently a Ph.D. candidate in the ECE department at Stony Brook University, fortunately advised by Prof. [Yuanyuan Yang]([http://www.ece.sunysb.edu/~yang/]).
 
 * I earned my Ph.D. degree from the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
 
