@@ -5,9 +5,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**Stony Brook University**, Hong Kong, Aug. 2017 - Aug. 2023 \
+**Stony Brook University**, New York, Aug. 2017 - Present \
 -- Ph.D. in Computer Engineering \
--- supervision by Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/)
+-- Supervision by Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/)
 
 
 **Xidian University**, Xi'an, Aug. 2012 - Jun. 2016 \
