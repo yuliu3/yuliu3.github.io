@@ -10,7 +10,7 @@ author_profile: true
 
 * [Fall&nbsp;&nbsp; '23] ESE 697 Ph.D. Practicum in Teaching
 * [Fall   '23] ESE 118 Digital Logic Design
-* [Fall&nbsp;&nbsp;&nbsp;&nbsp; '22] ESE 342 Communication Systems
+* [Fall	&#20;	&#20; '22] ESE 342 Communication Systems
 * [Spring '21] ESE 118 Digital Logic Design
 * [Spring '20] ESE 123 Introduction to Electrical and Computer Engineering
 * [Fall   '19] ESE 372 Electronics
