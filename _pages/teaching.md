@@ -29,14 +29,14 @@ author_profile: true
 </head>
 <body>
 
-<h2>Stony Brook University (as a teaching assistant)</h2>
+<h2>Teaching Assistant for</h2>
 
 <ul>
-    <li> ESE 697 Ph.D. Practicum in Teaching, Fall '23 </li>
-    <li> ESE 118 Digital Logic Design, Fall '23, Spring '21</li>
-    <li> ESE 372 Electronics, Fall '19 </li>
-    <li> ESE 342 Communication Systems, Fall '22</li>
-    <li> ESE 123 Introduction to Electrical and Computer Engineering, Spring '20, Fall '18, Spring '18, and Fall '17</li>
+    <li> [ESE 697] Ph.D. Practicum in Teaching, Fall '23 </li>
+    <li> [ESE 118] Digital Logic Design, Fall '23, Spring '21</li>
+    <li> [ESE 372] Electronics, Fall '19 </li>
+    <li> [ESE 342] Communication Systems, Fall '22</li>
+    <li> [ESE 123] Introduction to Electrical and Computer Engineering, Spring '20, Fall '18, Spring '18, and Fall '17</li>
 
 </ul>
 
