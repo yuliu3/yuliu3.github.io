@@ -62,4 +62,4 @@ in Proceedings of IEEE 39th International Conference on Distributed Computing Sy
 
 [14] Multi-Rack Regenerating Codes for Hierarchical Distributed Storage Systems
 <br> Shan Qu, **Yu Liu**, Jinbei Zhang, Haiwen Cao and Xinbing Wang,  <br>
-in Proceedings of IEEE International Conference on Communications (ICC), Kansas City, MO, USA, 2018, pp. 1-6, doi: 10.1109/ICC.2018.8422112.
+in Proceedings of IEEE International Conference on Communications (**ICC**), Kansas City, MO, USA, 2018, pp. 1-6, doi: 10.1109/ICC.2018.8422112.
