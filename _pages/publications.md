@@ -7,7 +7,7 @@ author_profile: true
 
 [1] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang.  <br> 
-in IEEE Transactions on Mobile Computing (**IEEE TMC**, Accepted for publication, Oct. 2023.
+in IEEE Transactions on Mobile Computing (**IEEE TMC**）, Accepted for publication, Oct. 2023.
 
 [2] Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
