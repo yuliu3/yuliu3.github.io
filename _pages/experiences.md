@@ -17,7 +17,7 @@ author_profile: true
 -- GPA:93/100 (ranked second out of 569 students)\
 <br />
 
-**Conference & Journal Reviewer**: 
+**Journal & Conference Reviewer**: 
 * IEEE Transactions on Mobile Computing (IEEE TMC)
 * IEEE Transactions on Cloud Computing (IEEE TCC)
 * IEEE Transactions on Green Communications and Networking (IEEE TGCN)
