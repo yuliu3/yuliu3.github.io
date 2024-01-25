@@ -5,47 +5,51 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
+[1] Joint Virtual Network Function Placement and Flow Routing in Edge-Cloud Continuum
+<br> Yingling Mao, Xiaojun Shang, **Yu Liu**, and Yuanyuan Yang  <br> 
+in IEEE Transactions on Computers (**IEEE TC**）, Accepted for publication, Dec. 2023.
+
+[2] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang  <br> 
 in IEEE Transactions on Mobile Computing (**IEEE TMC**）, Accepted for publication, Oct. 2023.
 
-[2] Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
+[3] Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
 in IEEE Transactions on Mobile Computing (**IEEE TMC**), doi: 10.1109/TMC.2023.3285882.
 
-[3] Availability Aware Online Virtual Network Function Backup in Edge Environments
+[4] Availability Aware Online Virtual Network Function Backup in Edge Environments
 <br>**Yu Liu**, Xiaojun Shang, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
 in IEEE Transactions on Mobile Computing (**IEEE TMC**), doi: 10.1109/TMC.2023.3282156.
 
-[4] Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
+[5] Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, and Yuanyuan Yang <br>
 in Proceedings of ACM SIGCOMM 1st Workshop on Quantum Networks and Distributed Quantum Computing (**ACM QuNet**), New York, NY, USA, 2023, pp. 51–56, doi: 10.1145/3610251.3610554.
 
-[5] Energy-Aware Online Task Offloading and Resource Allocation for Mobile Edge Computing
+[6] Energy-Aware Online Task Offloading and Resource Allocation for Mobile Edge Computing
 <br> **Yu Liu**, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang <br>
 in Proceedings of IEEE 43rd International Conference on Distributed Computing Systems (**IEEE ICDCS**), Hong Kong, 2023, pp. 339-349, doi: 10.1109/ICDCS57875.2023.00073.
 
-[6] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
+[7] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang <br> 
 in Proceedings of IEEE Conference on Computer Communications (**IEEE INFOCOM**), New York City, NY, USA, 2023, pp. 1-10, doi: 10.1109/INFOCOM53939.2023.10229015.
 
-[7] Qubit Allocation for Distributed Quantum Computing
+[8] Qubit Allocation for Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, and Yuanyuan Yang <br> 
 in Proceedings of IEEE Conference on Computer Communications (**IEEE INFOCOM**), New York City, NY, USA, 2023, pp. 1-10, doi: 10.1109/INFOCOM53939.2023.10228915.
 
-[8] Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing
+[9] Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing
 <br> Xiaojun Shang, Yingling Mao, **Yu Liu**, Yaodong Huang, Zhenhua Liu, and Yuanyuan Yang  <br> 
 in Proceedings of IEEE Conference on Computer Communications (**IEEE INFOCOM**), New York City, NY, USA, 2023, pp. 1-10, doi: 10.1109/INFOCOM53939.2023.10229034.
 
-[9] Online Resource Provisioning for Wireless Data Collection
+[10] Online Resource Provisioning for Wireless Data Collection
 <br>**Yu Liu**, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang<br>
 in ACM Transactions on Sensor Networks (**ACM TOSN**), vol. 18, no. 1, pp. 1-27, Feb. 2022, doi:10.1145/3470648.
 
-[10] Distributed Cooperative Caching in Unreliable Edge Environments
+[11] Distributed Cooperative Caching in Unreliable Edge Environments
 <br> **Yu Liu**, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang  <br> 
 in Proceedings of IEEE Conference on Computer Communications (**IEEE INFOCOM**), London, United Kingdom, 2022, pp. 1049-1058, doi: 10.1109/INFOCOM48880.2022.9796799.
 
-[11] Joint SFC Deployment and Resource Management in Heterogeneous Edge for Latency Minimization
+[12] Joint SFC Deployment and Resource Management in Heterogeneous Edge for Latency Minimization
 <br>**Yu Liu**, Xiaojun Shang, and Yuanyuan Yang<br>
 in IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS**), vol. 32, no. 8, pp. 2131-2143, 1 Aug. 2021, doi: 10.1109/TPDS.2021.3062341.
 
