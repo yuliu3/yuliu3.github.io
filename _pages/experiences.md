@@ -11,7 +11,7 @@ author_profile: true
 * IEEE Transactions on Green Communications and Networking (IEEE TGCN)
 
 
-* **Conference Reviewer**:
+**Conference Reviewer**:
 * IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)
 * IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS)
 * IEEE Global Communications Conference (IEEE GLOBECOM)
