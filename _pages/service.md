@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
