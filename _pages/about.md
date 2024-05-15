@@ -12,7 +12,7 @@ redirect_from:
 
 * Prior to that, I received a Bachelor's degree in communications engineering from Xidian University, Xi'an, China.
 
-* My research interests are centered around edge computing and networks, edge AI, and distributed quantum computing.
+* My research interests are centered around edge computing and networks, edge AI, LEO satellite networks, and distributed quantum computing.
 
 <br />
 
@@ -24,8 +24,8 @@ News
 **June 2023:** Paper on "[Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge](https://doi.org/10.1109/TMC.2023.3285882)" accepted to IEEE TMC.
 
 **May 2023:** Paper on "[Availability Aware Online Virtual Network Function Backup in Edge Environments](https://doi.org/10.1109/TMC.2023.3282156)" accepted to IEEE TMC.
-//-->
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA&cl=ffffff&w=a"></script> -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA'></script>
+//-->
