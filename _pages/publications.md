@@ -10,19 +10,19 @@ in Proceedings of IEEE 44th International Conference on Distributed Computing Sy
 
 [2] Joint Virtual Network Function Placement and Flow Routing in Edge-Cloud Continuum
 <br> Yingling Mao, Xiaojun Shang, **Yu Liu**, and Yuanyuan Yang  <br> 
-in IEEE Transactions on Computers (**IEEE TC**）, Accepted for publication, Dec. 2023.
+in IEEE Transactions on Computers (**IEEE TC**), vol. 73, no. 3, pp. 872-886, March 2024, doi: 10.1109/TC.2023.3347671.
 
 [3] Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang  <br> 
-in IEEE Transactions on Mobile Computing (**IEEE TMC**）, Accepted for publication, Oct. 2023.
+in IEEE Transactions on Mobile Computing (**IEEE TMC**), vol. 23, no. 6, pp. 7318-7334, June 2024, doi: 10.1109/TMC.2023.3335198.
 
 [4] Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge
 <br> **Yu Liu**, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
-in IEEE Transactions on Mobile Computing (**IEEE TMC**), doi: 10.1109/TMC.2023.3285882.
+in IEEE Transactions on Mobile Computing (**IEEE TMC**), vol. 23, no. 5, pp. 4062-4075, May 2024, doi: 10.1109/TMC.2023.3285882.
 
 [5] Availability Aware Online Virtual Network Function Backup in Edge Environments
 <br>**Yu Liu**, Xiaojun Shang, Yingling Mao, Zhenhua Liu, and Yuanyuan Yang<br>
-in IEEE Transactions on Mobile Computing (**IEEE TMC**), doi: 10.1109/TMC.2023.3282156.
+in IEEE Transactions on Mobile Computing (**IEEE TMC**), vol. 23, no. 5, pp. 3909-3922, May 2024, doi: 10.1109/TMC.2023.3282156.
 
 [6] Probability-aware Qubit-to-Processor Mapping in Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, and Yuanyuan Yang <br>
