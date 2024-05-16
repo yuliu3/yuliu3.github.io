@@ -25,7 +25,4 @@ News
 
 **May 2023:** Paper on "[Availability Aware Online Virtual Network Function Backup in Edge Environments](https://doi.org/10.1109/TMC.2023.3282156)" accepted to IEEE TMC.
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA&cl=ffffff&w=a"></script> -->
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA'></script>
 //-->
