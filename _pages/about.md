@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Ph.D. candidate in the ECE department at Stony Brook University, where I have the privilege of being advised by Prof. [Yuanyuan Yang](http://www.ece.sunysb.edu/~yang/).
+* I am currently an Assistant Professor in the Department of Computing at the Hong Kong Polytechnic University (PolyU).
+  
+* I recived my Ph.D. degree computer engineering from Stony Brook University, where I had the privilege of being advised by Prof. [Yuanyuan Yang](http://www.ece.sunysb.edu/~yang/).
 
 * Prior to that, I received a Bachelor's degree in communications engineering from Xidian University, Xi'an, China.
 
