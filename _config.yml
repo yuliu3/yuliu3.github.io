@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu's homepage"
 title_separator          : "-"
 name                     : &name "Yu Liu"
-description              : &description "Ph.D. Candidate, Stony Brook University"
+description              : &description "Assistant Professor, Department of Computing, PolyU, HK"
 url                      : https://yuliu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuliu3.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CAVBtMgAAAAJ&hl=en"
-  email            : liuyuxdu@gmail.com
+  email            : yu-y.liu@polyu.edu.hk
   researchgate     : "https://www.researchgate.net/profile/Yu_Liu448"
   uri              :
   bitbucket        :
