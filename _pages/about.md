@@ -16,6 +16,8 @@ redirect_from:
 
 * My research interests are centered around edge computing and networks, edge AI, LEO satellite networks, and distributed quantum computing.
 
+*  I am currently recruiting self-motivated Ph.D. students. If you are interested in joining my research group, please feel free to reach out with your CV and transcripts to my email: yu-y.liu@polyu.edu.hk.
+*  
 <br />
 
 <!--
