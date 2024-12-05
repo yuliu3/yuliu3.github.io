@@ -88,7 +88,7 @@
   pages: "1049-1058"
   doi: "10.1109/INFOCOM48880.2022.9796799"
 
-  - title: "Online Resource Provisioning for Wireless Data Collection"
+- title: "Online Resource Provisioning for Wireless Data Collection"
   authors: "Yu Liu, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang"
   publication: "ACM Transactions on Sensor Networks (ACM TOSN)"
   year: 2021
