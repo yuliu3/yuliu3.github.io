@@ -9,20 +9,21 @@ author_profile: true
   {% for publication in site.data.publications %}
     <li>
       {{ publication.authors }} ({{ publication.year }}). 
-      "<em>{{ publication.title }}</em>." 
-      {{ publication.publication }} 
+      "<em>{{ publication.title }}</em>."
+      <strong>{{ publication.publication }}</strong>
       {% if publication.volume %}
-        {{ publication.volume }}({{ publication.issue }}), 
+        <strong>{{ publication.volume }}</strong>({{ publication.issue }}), 
       {% endif %}
       {% if publication.pages %}
         {{ publication.pages }}. 
       {% endif %}
       {% if publication.doi %}
-        DOI: {{ publication.doi }}
+        DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
       {% endif %}
     </li>
   {% endfor %}
 </ol>
+
 
 <!--
 [1] Network Topology Design for Distributed Quantum Computing
