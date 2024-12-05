@@ -6,21 +6,30 @@ author_profile: true
 ---
 <ol>
   {% for publication in site.data.publications %}
-    <li style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
-      <span style="flex: 1; font-weight: bold;">{{ publication.authors }} ({{ publication.year }}). </span>
-      <span style="flex: 2; font-style: italic;">"{{ publication.title }}." </span>
-      <span style="flex: 1;">{{ publication.publication }}</span>
-      {% if publication.volume %}
-        <span style="flex: 0.5;">{{ publication.volume }}({{ publication.issue }}),</span>
-      {% endif %}
-      {% if publication.pages %}
-        <span style="flex: 1;">{{ publication.pages }}.</span>
-      {% endif %}
-      {% if publication.doi %}
-        <span style="flex: 1;">
-          DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
-        </span>
-      {% endif %}
+    <li style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px;">
+      
+      <!-- Left-aligned: Authors and Title -->
+      <span style="flex: 2; font-weight: bold;">
+        {{ publication.authors }} ({{ publication.year }}).
+      </span>
+      <span style="flex: 4; font-style: italic;">
+        "{{ publication.title }}."
+      </span>
+      
+      <!-- Right-aligned: Publication Details (no bold style for publication) -->
+      <span style="flex: 2; text-align: right;">
+        {{ publication.publication }}
+        {% if publication.volume %}
+          <span>{{ publication.volume }}({{ publication.issue }}),</span>
+        {% endif %}
+        {% if publication.pages %}
+          <span> {{ publication.pages }}.</span>
+        {% endif %}
+        {% if publication.doi %}
+          <span> DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a></span>
+        {% endif %}
+      </span>
+      
     </li>
   {% endfor %}
 </ol>
