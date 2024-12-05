@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<ol style="padding-left: 20px; list-style-type: decimal;">
+<ol style="padding-left: 20px; list-style-type: none;">
   {% for publication in site.data.publications %}
     <li style="margin-bottom: 10px; text-align: justify; word-wrap: break-word;">
-
-      <!-- Number for the Paper -->
-      <span style="font-weight: bold;">{{ forloop.index }}. </span>
+    
+      <!-- Square Brackets for Number -->
+      <span style="font-weight: bold;">[{{ forloop.index }}]</span> 
 
       <!-- Authors and Year (Inline) -->
       <span>{{ publication.authors }} ({{ publication.year }}). </span>
