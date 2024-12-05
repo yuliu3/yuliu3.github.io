@@ -4,25 +4,34 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<ol>
+<ol style="list-style: none; padding-left: 0;">
   {% for publication in site.data.publications %}
-    <li>
-      {{ publication.authors }} ({{ publication.year }}). 
-      "<em>{{ publication.title }}</em>."
-      {{ publication.publication }}
+    <li style="display: flex; justify-content: space-between; margin-bottom: 10px; white-space: nowrap; width: 100%;">
+
+      <!-- Authors and Year (Inline) -->
+      <span>{{ publication.authors }} ({{ publication.year }}). </span>
+
+      <!-- Title (Inline, Italic) -->
+      "<span style="font-style: italic;">{{ publication.title }}</span>."
+
+      <!-- Publication Details (Inline) -->
+      <span>{{ publication.publication }}</span>
+
       {% if publication.volume %}
-        <strong>{{ publication.volume }}</strong>({{ publication.issue }}), 
+        <span> {{ publication.volume }}({{ publication.issue }}),</span>
       {% endif %}
       {% if publication.pages %}
-        {{ publication.pages }}. 
+        <span> {{ publication.pages }}.</span>
       {% endif %}
+
+      <!-- DOI (Inline, if available) -->
       {% if publication.doi %}
-        DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
+        <span> DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a></span>
       {% endif %}
+
     </li>
   {% endfor %}
 </ol>
-
 
 <!--
 <ol>
