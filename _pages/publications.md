@@ -8,9 +8,15 @@ author_profile: true
 <ol>
   {% for publication in site.data.publications %}
     <li>
-      <strong>{{ publication.title }}</strong><br>
-      <em>{{ publication.authors }}</em><br>
-      <span>{{ publication.publication }}</span><br>
+      <strong>{{ publication.authors }} ({{ publication.year }}). </strong>
+      "<em>{{ publication.title }}</em>." 
+      <strong>{{ publication.publication }}</strong> 
+      {% if publication.volume %}
+        <strong>{{ publication.volume }}</strong>({{ publication.issue }}), 
+      {% endif %}
+      {% if publication.pages %}
+        {{ publication.pages }}. 
+      {% endif %}
       {% if publication.doi %}
         DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
       {% endif %}
