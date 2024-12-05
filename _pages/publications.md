@@ -9,15 +9,13 @@ author_profile: true
     <li style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px;">
       
       <!-- Left-aligned: Authors and Title -->
-      <span style="flex: 2; font-weight: bold;">
+      <span style="flex: 3; text-align: left; font-weight: normal;">
         {{ publication.authors }} ({{ publication.year }}).
+        "<em>{{ publication.title }}</em>."
       </span>
-      <span style="flex: 4; font-style: italic;">
-        "{{ publication.title }}."
-      </span>
-      
-      <!-- Right-aligned: Publication Details (no bold style for publication) -->
-      <span style="flex: 2; text-align: right;">
+
+      <!-- Right-aligned: Publication details -->
+      <span style="flex: 2; text-align: right; font-weight: normal;">
         {{ publication.publication }}
         {% if publication.volume %}
           <span>{{ publication.volume }}({{ publication.issue }}),</span>
