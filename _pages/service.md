@@ -6,16 +6,18 @@ author_profile: true
 ---
 
 **Journal Reviewer**: 
-* IEEE Transactions on Mobile Computing (IEEE TMC)
-* IEEE Transactions on Cloud Computing (IEEE TCC)
-* IEEE Transactions on Green Communications and Networking (IEEE TGCN)
-
+* IEEE Transactions on Mobile Computing (**TMC**)
+* IEEE Transactions on Cloud Computing (**TCC**)
+* IEEE Transactions on Green Communications and Networking (**TGCN**)
+* IEEE Network Magazine
+* ACM Computing Surveys
 
 **Conference Reviewer**:
-* IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)
-* IEEE/ACM International Symposium on Quality of Service (IEEE/ACM IWQoS)
-* IEEE Global Communications Conference (IEEE GLOBECOM)
-* IEEE International Conference on Fog Computing (IEEE ICFC)
+* IEEE International Conference on Computer Communications (**INFOCOM**)
+* IEEE International Conference on Distributed Computing Systems (**ICDCS**)
+* IEEE/ACM International Symposium on Quality of Service (**IWQoS**)
+* IEEE Global Communications Conference (**GLOBECOM**)
+* IEEE International Conference on Fog Computing (**ICFC**)
 
 
 
