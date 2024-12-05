@@ -4,6 +4,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<h2>List of Publications</h2>
+
+<ol>
+  {% for publication in site.data.publications %}
+    <li>
+      <strong>{{ publication.title }}</strong><br>
+      {{ publication.authors }}<br>
+      {{ publication.publication }}<br>
+      {% if publication.link %}
+        <a href="{{ publication.link }}" target="_blank">Link</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
+
+<!--
 [1] Network Topology Design for Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, Xiaojun Shang, and Yuanyuan Yang  <br> 
 in Proceedings of IEEE 44th International Conference on Distributed Computing Systems (**IEEE ICDCS**), Jersey City, New Jersey, USA.
@@ -71,3 +88,4 @@ in Proceedings of IEEE 39th International Conference on Distributed Computing Sy
 [17] Multi-Rack Regenerating Codes for Hierarchical Distributed Storage Systems
 <br> Shan Qu, **Yu Liu**, Jinbei Zhang, Haiwen Cao and Xinbing Wang,  <br>
 in Proceedings of IEEE International Conference on Communications (**IEEE ICC**), Kansas City, MO, USA, 2018, pp. 1-6, doi: 10.1109/ICC.2018.8422112.
+-->
