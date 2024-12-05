@@ -24,6 +24,6 @@ News
 =====
 <div style="text-align: justify;">
     <ul>
-        <li><strong>[12/2024]</strong> I am actively recruiting highly motivated Ph.D. students. If you are interested in joining my research group, please send your CV and academic transcripts to my email: <span style="font-weight: normal;">yu-y.liu@polyu.edu.hk</span>.</li>
+        <li><strong>[12/2024]</strong> I am actively recruiting highly motivated Ph.D. students. If you are interested in joining my research group, please send your CV and academic transcripts to my email: <a href="mailto:yu-y.liu@polyu.edu.hk">yu-y.liu@polyu.edu.hk</a>.</li>
     </ul>
 </div>
