@@ -4,7 +4,29 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<ol>
+  {% for publication in site.data.publications %}
+    <li style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
+      <span style="flex: 1; font-weight: bold;">{{ publication.authors }} ({{ publication.year }}). </span>
+      <span style="flex: 2; font-style: italic;">"{{ publication.title }}." </span>
+      <span style="flex: 1;">{{ publication.publication }}</span>
+      {% if publication.volume %}
+        <span style="flex: 0.5;">{{ publication.volume }}({{ publication.issue }}),</span>
+      {% endif %}
+      {% if publication.pages %}
+        <span style="flex: 1;">{{ publication.pages }}.</span>
+      {% endif %}
+      {% if publication.doi %}
+        <span style="flex: 1;">
+          DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
+        </span>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
 
+
+<!--
 <ol>
   {% for publication in site.data.publications %}
     <li>
@@ -24,8 +46,6 @@ author_profile: true
   {% endfor %}
 </ol>
 
-
-<!--
 [1] Network Topology Design for Distributed Quantum Computing
 <br> Yingling Mao, **Yu Liu**, Xiaojun Shang, and Yuanyuan Yang  <br> 
 in Proceedings of IEEE 44th International Conference on Distributed Computing Systems (**IEEE ICDCS**), Jersey City, New Jersey, USA.
