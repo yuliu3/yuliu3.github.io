@@ -8,7 +8,7 @@ author_profile: true
   {% for publication in site.data.publications %}
     <li style="margin-bottom: 10px; list-style-type: none;">
 
-      <!-- Authors (Left-aligned) -->
+      <!-- Authors and Year (Left-aligned) -->
       <div style="text-align: left; margin: 0;">
         {{ publication.authors }} ({{ publication.year }}).
       </div>
@@ -31,7 +31,7 @@ author_profile: true
 
       <!-- DOI (Right-aligned, if available) -->
       {% if publication.doi %}
-        <div style="text-align: right; margin: 0;">
+        <div style="text-align: right; margin-top: 5px;">
           DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
         </div>
       {% endif %}
