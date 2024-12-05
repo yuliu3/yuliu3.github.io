@@ -1,8 +1,14 @@
+- title: "Performance Analysis of Interconnection Networks for Distributed Quantum Computing"
+  authors: "Yingling Mao, Yu Liu, Xu Xu, Xiaojun Shang, and Yuanyuan Yang"
+  publication: "Proceedings of IEEE Global Communications Conference (IEEE GLOBECOM)"
+  year: 2024
+
 - title: "Network Topology Design for Distributed Quantum Computing"
   authors: "Yingling Mao, Yu Liu, Xiaojun Shang, and Yuanyuan Yang"
   publication: "Proceedings of IEEE 44th International Conference on Distributed Computing Systems (IEEE ICDCS)"
-  year: 2023
-  doi: "10.1109/ICDCS57875.2023.00050"
+  year: 2024
+  pages: "1213--1223"
+  doi: "10.1109/ICDCS60910.2024.00115."
 
 - title: "Joint Virtual Network Function Placement and Flow Routing in Edge-Cloud Continuum"
   authors: "Yingling Mao, Xiaojun Shang, Yu Liu, and Yuanyuan Yang"
@@ -75,14 +81,6 @@
   pages: "1-10"
   doi: "10.1109/INFOCOM53939.2023.10229034"
 
-- title: "Online Resource Provisioning for Wireless Data Collection"
-  authors: "Yu Liu, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang"
-  publication: "ACM Transactions on Sensor Networks (ACM TOSN)"
-  year: 2022
-  volume: "18"
-  issue: "1"
-  pages: "1-27"
-  doi: "10.1145/3470648"
 
 - title: "Distributed Cooperative Caching in Unreliable Edge Environments"
   authors: "Yu Liu, Yingling Mao, Xiaojun Shang, Zhenhua Liu, and Yuanyuan Yang"
@@ -90,6 +88,15 @@
   year: 2022
   pages: "1049-1058"
   doi: "10.1109/INFOCOM48880.2022.9796799"
+
+  - title: "Online Resource Provisioning for Wireless Data Collection"
+  authors: "Yu Liu, Joshua Comden, Zhenhua Liu, and Yuanyuan Yang"
+  publication: "ACM Transactions on Sensor Networks (ACM TOSN)"
+  year: 2021
+  volume: "18"
+  issue: "1"
+  pages: "1-27"
+  doi: "10.1145/3470648"
 
 - title: "Joint SFC Deployment and Resource Management in Heterogeneous Edge for Latency Minimization"
   authors: "Yu Liu, Xiaojun Shang, and Yuanyuan Yang"
