@@ -5,16 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>List of Publications</h2>
-
 <ol>
   {% for publication in site.data.publications %}
     <li>
       <strong>{{ publication.title }}</strong><br>
-      {{ publication.authors }}<br>
-      {{ publication.publication }}<br>
-      {% if publication.link %}
-        <a href="{{ publication.link }}" target="_blank">Link</a>
+      <em>{{ publication.authors }}</em><br>
+      <span>{{ publication.publication }}</span><br>
+      {% if publication.doi %}
+        DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
       {% endif %}
     </li>
   {% endfor %}
