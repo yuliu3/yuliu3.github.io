@@ -4,17 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<ol style="list-style: none; padding-left: 0;">
+<ol style="padding-left: 20px; list-style-type: decimal;">
   {% for publication in site.data.publications %}
-    <li style="display: flex; justify-content: space-between; margin-bottom: 10px; white-space: nowrap; width: 100%;">
+    <li style="margin-bottom: 10px; text-align: justify; word-wrap: break-word;">
+
+      <!-- Number for the Paper -->
+      <span style="font-weight: bold;">{{ forloop.index }}. </span>
 
       <!-- Authors and Year (Inline) -->
       <span>{{ publication.authors }} ({{ publication.year }}). </span>
 
-      <!-- Title (Inline, Italic) -->
+      <!-- Title (Italicized) -->
       "<span style="font-style: italic;">{{ publication.title }}</span>."
 
-      <!-- Publication Details (Inline) -->
+      <!-- Publication Details -->
       <span>{{ publication.publication }}</span>
 
       {% if publication.volume %}
@@ -24,7 +27,7 @@ author_profile: true
         <span> {{ publication.pages }}.</span>
       {% endif %}
 
-      <!-- DOI (Inline, if available) -->
+      <!-- DOI (if available) -->
       {% if publication.doi %}
         <span> DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a></span>
       {% endif %}
@@ -32,6 +35,7 @@ author_profile: true
     </li>
   {% endfor %}
 </ol>
+
 
 <!--
 <ol>
