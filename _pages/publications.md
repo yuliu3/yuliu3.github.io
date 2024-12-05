@@ -6,36 +6,19 @@ author_profile: true
 ---
 <ol>
   {% for publication in site.data.publications %}
-    <li style="margin-bottom: 10px; list-style-type: none;">
-
-      <!-- Authors and Year (Left-aligned) -->
-      <div style="text-align: left; margin: 0;">
-        {{ publication.authors }} ({{ publication.year }}).
-      </div>
-
-      <!-- Title (Left-aligned) -->
-      <div style="text-align: left; font-style: italic; margin: 0;">
-        "{{ publication.title }}"
-      </div>
-
-      <!-- Publication Details (Left-aligned) -->
-      <div style="text-align: left; margin: 0;">
-        {{ publication.publication }}
-        {% if publication.volume %}
-          <span> {{ publication.volume }}({{ publication.issue }}),</span>
-        {% endif %}
-        {% if publication.pages %}
-          <span> {{ publication.pages }}.</span>
-        {% endif %}
-      </div>
-
-      <!-- DOI (Right-aligned, if available) -->
-      {% if publication.doi %}
-        <div style="text-align: right; margin-top: 5px;">
-          DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
-        </div>
+    <li>
+      {{ publication.authors }} ({{ publication.year }}). 
+      "<em>{{ publication.title }}</em>."
+      {{ publication.publication }}
+      {% if publication.volume %}
+        <strong>{{ publication.volume }}</strong>({{ publication.issue }}), 
       {% endif %}
-
+      {% if publication.pages %}
+        {{ publication.pages }}. 
+      {% endif %}
+      {% if publication.doi %}
+        DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank">{{ publication.doi }}</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ol>
