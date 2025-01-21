@@ -79,41 +79,41 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Yu Liu"
-  avatar           : "yuliu3.jpg"
-  bio              : "Assistant Professor, PolyU"
-  location         : "Kowloon, HK"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=CAVBtMgAAAAJ&hl=en"
-  email            : yu-y.liu@polyu.edu.hk
-  researchgate     : "https://www.researchgate.net/profile/Yu_Liu448"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "yuliu3"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "yu-liu-1142091b0"
-  orcid            : "https://orcid.org/0000-0003-3267-6497"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+# author:
+#   name             : "Yu Liu"
+#   avatar           : "yuliu3.jpg"
+#   bio              : "Assistant Professor, PolyU"
+#   location         : "Kowloon, HK"
+#   employer         :
+#   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "https://scholar.google.com/citations?user=CAVBtMgAAAAJ&hl=en"
+#   email            : yu-y.liu@polyu.edu.hk
+#   researchgate     : "https://www.researchgate.net/profile/Yu_Liu448"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : "yuliu3"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+#   linkedin         : "yu-liu-1142091b0"
+#   orcid            : "https://orcid.org/0000-0003-3267-6497"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    :
+#   tumblr           :
+#   twitter          :
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
