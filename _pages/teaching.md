@@ -28,12 +28,12 @@ author_profile: true
     </style>
 </head>
 <body>
-<h2>Instructor for</h2>
+<h2>Instructor @ PolyU for</h2>
 <ul>
     <li> [COMP 4322] Internetworking Protocols, Software and Management, Spring '25 </li>
 </ul>
 
-<h2>Teaching Assistant for</h2>
+<h2>Teaching Assistant @ Stony Brook for</h2>
 
 <ul>
     <li> [ESE 697] Ph.D. Practicum in Teaching, Fall '23 </li>
