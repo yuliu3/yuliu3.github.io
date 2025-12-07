@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Yu Liu – Homepage</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    name="description"
+    content="Yu Liu, Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University (PolyU). Research in edge computing, edge AI, LEO satellite networks, and distributed quantum computing."
+  />
+  <style>
+    :root {
+      --bg: #f5f5f7;
+      --bg-alt: #ffffff;
+      --text: #111827;
+      --muted: #4b5563;
+      --accent: #1d4ed8;
+      --border: #e5e7eb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.6;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus-visible {
+      text-decoration: underline;
+    }
+
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+      background: var(--bg-alt);
+      min-height: 100vh;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+      border-left: 1px solid var(--border);
+      border-right: 1px solid var(--border);
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      padding: 0.75rem 0 0.5rem;
+      margin-bottom: 1.5rem;
+      background: var(--bg-alt);
+      z-index: 10;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header-inner {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+    }
+
+    .brand {
+      font-weight: 600;
+      font-size: 1.2rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      font-size: 1.2rem;
+    }
+
+    nav a {
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+    }
+
+    nav a:hover,
+    nav a:focus-visible {
+      background: #eff6ff;
+      text-decoration: none;
+    }
+
+    main {
+      margin-top: 0.5rem;
+    }
+
+    section {
+      padding: 1.25rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    section:last-of-type {
+      border-bottom: none;
+    }
+
+    .hero {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      align-items: center;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+    }
+
+    .hero img {
+      width: 160px;
+      aspect-ratio: 2 / 3;  /* example ratio (width / height) */
+      object-fit: cover;
+      border-radius: 2%;
+      border: 1px solid var(--border);
+      background: #e5e7eb;
+    }
+
+    .hero-text {
+      flex: 1 1 260px;
+      min-width: 0;
+    }
+
+    .hero-text h1 {
+      font-size: 1.2rem;
+    }
+
+    .hero-text h1 {
+      font-size: 1.2rem;
+    }
+
+    /* ADD THIS BELOW */
+    #about > p {
+      font-size: 1.2rem;
+      line-height: 1.7;
+    }
+
+    .name {
+      font-size: 1.9rem;
+      font-weight: 700;
+      margin: 0 0 0.25rem;
+    }
+
+    .title {
+      margin: 0;
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    .title span {
+      display: block;
+    }
+
+    .contact {
+      margin-top: 0.7rem;
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    h2 {
+      margin: 0 0 0.6rem;
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 1.2rem;
+    }
+
+    .muted p {
+      font-size: 1.2rem;
+    }
+
+    .pill-list {
+      list-style: none;
+      padding: 0;
+      margin: 0.3rem 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      font-size: 1.2rem;
+    }
+
+    .pill-list li {
+      padding: 0.15rem 0.5rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #f9fafb;
+    }
+
+    .news-list,
+    .item-list {
+      list-style: none;
+      padding: 0;
+      margin: 0.2rem 0 0;
+      font-size: 1.2rem;
+    }
+
+    .news-list li {
+      margin-bottom: 0.4rem;
+    }
+
+    .news-date {
+      font-weight: 600;
+      font-variant-numeric: tabular-nums;
+      margin-right: 0.35rem;
+    }
+
+    .item-list li {
+      margin-bottom: 0.4rem;
+    }
+
+    .item-label {
+      font-weight: 600;
+    }
+
+    .item-meta {
+      display: block;
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      .page {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        box-shadow: none;
+        border-left: none;
+        border-right: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="header-inner">
+        <div class="brand">Yu Liu</div>
+        <nav>
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#teaching">Teaching</a>
+          <a href="#service">Service</a>
+          <a href="#publications">Publications</a>
+          <a href="https://polyu.online">Group</a>
+      </div>
+    </header>
+
+    <main>
+      <!-- Hero / basic info -->
+      <section id="about">
+        <div class="hero">
+          <img src="images/yuliu.jpg" alt="Portrait of Yu Liu" />
+          <div class="hero-text">
+            <h1 class="name">Yu Liu</h1>
+            <p class="title">
+              <span>Assistant Professor</span>
+              <span>Department of Computing</span>
+              <span>The Hong Kong Polytechnic University</span>
+            </p>
+            <p class="contact">
+              Email: liuyu[at]polyu.edu.hk<br />
+              Address: Hung Hom, Kowloon, Hong Kong<br />
+              Office: PQ735, Mong Man Wai Building<br />
+              Profiles:
+              <a href="https://scholar.google.com/citations?hl=en&user=0CCqK8cAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>,
+              <a href="https://www.researchgate.net/profile/Yu_Liu448" target="_blank" rel="noreferrer">ResearchGate</a>,
+              <a href="https://orcid.org/0000-0003-3267-6497" target="_blank" rel="noreferrer">ORCID</a>
+            </p>
+          </div>
+        </div>
+
+        <p>
+          I am currently an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University (PolyU).
+          I received my Ph.D. degree in Computer Engineering from Stony Brook University, where I had the privilege of working
+          with Prof. Yuanyuan Yang. Prior to that, I earned a Bachelor's degree in
+          Telecommunications Engineering from Xidian University in Xi'an, China.
+        </p>
+      </section>
+
+      <!-- Research -->
+      <section id="research">
+        <h2>Research interests</h2>
+        <p class="muted">
+          My research lies broadly in networking and systems for dependable and efficient computing,
+          with a particular emphasis on edge environments.
+        </p>
+        <ul class="pill-list">
+          <li>Distributed quantum computing</li>
+          <li>Edge computing and networks</li>
+          <li>Edge AI</li>
+          <li>LEO satellite networks</li>
+        </ul>
+      </section>
+
+      <!-- News -->
+      <section id="news">
+        <h2>News</h2>
+        <ul class="news-list">
+          <li>
+            <span class="news-date">12/2025</span>
+              Our paper <strong>"Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing"</strong>
+              has been accepted to <strong><em>IEEE INFOCOM 2026</em></strong>. This marks a special milestone 🚩 for our group,
+            as it is the first paper by our first PhD student, <a href="zhangxz.polyu.online"><strong>Xiangzhi Zhang</strong></a>, who joined the group in Fall 2025.
+            Congratulations 🎉🎉🎉 to Xiangzhi on this excellent achievement and a strong start to his PhD journey!
+          </li>
+          <li>
+            <span class="news-date">12/2024</span>
+            If you are interested in joining my research group, please send your CV and academic
+            transcripts to my email.
+          </li>
+          <!-- Add more items as needed -->
+        </ul>
+      </section>
+
+
+      <!-- Teaching -->
+      <section id="teaching">
+        <h2>Teaching</h2>
+        <ul class="item-list">
+          <li>
+            <span class="item-label">Instructor @ Hong Kong Polytechnic University</span>
+            <span class="item-meta">
+              [COMP4342] Mobile Computing, Fall ’25<br />
+              [COMP1004] Introduction to Artificial Intelligence and Data Analytics, Fall ’25<br />
+              [COMP4322] Internetworking Protocols, Software and Management, Spring ’25
+            </span>
+          </li>
+          <li>
+            <span class="item-label">Teaching Assistant @ Stony Brook University</span>
+            <span class="item-meta">
+              [ESE697] Ph.D. Practicum in Teaching, Fall ’23<br />
+              [ESE118] Digital Logic Design, Spring ’24, Fall ’23, Spring ’21<br />
+              [ESE372] Electronics, Fall ’19<br />
+              [ESE342] Communication Systems, Fall ’22<br />
+              [ESE123] Introduction to Electrical and Computer Engineering,
+              Spring ’20, Fall ’18, Spring ’18, Fall ’17
+            </span>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Service -->
+      <section id="service">
+        <h2>Service</h2>
+
+        <h3 style="margin:0.2rem 0 0.4rem; font-size:1.2rem;">TPC member</h3>
+        <ul class="item-list">
+          <li>International Conference on Quantum Communications, Networking, and Computing (QCNC 2026)</li>
+          <li>International Workshop on Big Data Reduction (IWBDR), in conjunction with Big Data 2025</li>
+        </ul>
+
+        <h3 style="margin:0.2rem 0 0.4rem; font-size:1.2rem;">Reviewer</h3>
+        <ul class="item-list">
+          <li>IEEE Transactions on Mobile Computing (TMC)</li>
+          <li>IEEE Transactions on Cloud Computing (TCC)</li>
+          <li>IEEE Transactions on Green Communications and Networking (TGCN)</li>
+          <li>IEEE Network</li>
+          <li>ACM Computing Surveys</li>
+          <li>IEEE International Conference on Computer Communications (INFOCOM)</li>
+          <li>IEEE International Conference on Distributed Computing Systems (ICDCS)</li>
+          <li>IEEE/ACM International Symposium on Quality of Service (IWQoS)</li>
+          <li>IEEE Global Communications Conference (GLOBECOM)</li>
+          <li>IEEE International Conference on Fog Computing (ICFC)</li>
+        </ul>
+      </section>
+
+           <!-- Publications (short, with pointer to full list) -->
+      <section id="publications">
+        <h2>Selected publications</h2>
+        <p class="muted">
+          A full list of publications is available on the
+          <a href="publications.html">publications</a>. <br />
+          <em>* indicates supervised PhD students.</em>
+        </p>
+        <ul class="item-list">
+          <li>
+            Xiangzhi Zhang<strong>*</strong>, Xu Xu, Yu Liu, Yingling Mao, Bin Xiao, Yuanyuan Yang (2026).<br />
+            <span class="pub-title">Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing.</span><br />
+            <span class="pub-venue">IEEE Conference on Computer Communications (INFOCOM).</span>
+          </li>
+          <li>
+            Yu Liu, Yingling Mao, Xu Xu, Xiaojun Shang, Fan Ye, Yuanyuan Yang (2025).<br />
+            <span class="pub-title">A Nonblocking Multistage Switching Network for Distributed Quantum Computing.</span><br />
+            <span class="pub-venue">IEEE Transactions on Networking (TON).</span>
+          </li>
+          <li>
+            Xu Xu, Yu Liu, Yingling Mao, Yuanyuan Yang (2025).<br />
+            <span class="pub-title">Remote Gate Scheduling in Distributed Quantum Computing.</span><br />
+            <span class="pub-venue">Proceedings of the 45th IEEE International Conference on Distributed Computing Systems (ICDCS).</span>
+          </li>
+          <li>
+            Yingling Mao, Yu Liu, Xu Xu, Xiaojun Shang, Yuanyuan Yang (2024).<br />
+            <span class="pub-title">Performance Analysis of Interconnection Networks for Distributed Quantum Computing.</span><br />
+            <span class="pub-venue">IEEE Global Communications Conference (GLOBECOM).</span>
+          </li>
+          <li>
+            Yu Liu, Yingling Mao, Zhenhua Liu, Yuanyuan Yang (2024).<br />
+            <span class="pub-title">Joint Task Offloading and Resource Allocation in Heterogeneous Edge Environments.</span><br />
+            <span class="pub-venue">IEEE Transactions on Mobile Computing (TMC), 23(6), 7318–7334.</span>
+          </li>
+          <li>
+            Yu Liu, Yingling Mao, Zhenhua Liu, Yuanyuan Yang (2024).<br />
+            <span class="pub-title">Deep Learning-Assisted Online Task Offloading for Latency Minimization in Heterogeneous Mobile Edge.</span><br />
+            <span class="pub-venue">IEEE Transactions on Mobile Computing (TMC), 23(5), 4062–4075.</span>
+          </li>
+        </ul>
+      </section>
+
+    </main>
+
+    <footer>
+      © <span id="year"></span> Yu Liu. All rights reserved.
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("year").textContent =
+      new Date().getFullYear().toString();
+  </script>
+</body>
+</html>
