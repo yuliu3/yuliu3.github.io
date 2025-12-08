@@ -102,7 +102,9 @@
     section {
       padding: 1.25rem 0;
       border-bottom: 1px solid var(--border);
+      scroll-margin-top: 80px;
     }
+
 
     section:last-of-type {
       border-bottom: none;
@@ -112,7 +114,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 1.5rem;
-      align-items: center;
+      align-items: flex-start;
     }
 
     .hero p {
@@ -120,16 +122,18 @@
     }
 
     .hero img {
-      width: 160px;
-      aspect-ratio: 2 / 3;  /* example ratio (width / height) */
+      height: 100%;
+      width: 180px;
       object-fit: cover;
-      border-radius: 2%;
+      border-radius: 4px;
       border: 1px solid var(--border);
       background: #e5e7eb;
+      padding: 2px;
     }
 
+
     .hero-text {
-      flex: 1 1 260px;
+      flex: 1;
       min-width: 0;
     }
 
@@ -264,7 +268,8 @@
           <a href="#teaching">Teaching</a>
           <a href="#service">Service</a>
           <a href="#publications">Publications</a>
-          <a href="https://polyu.online">Group</a>
+          <a href="delta/delta.html">Group</a>
+        </nav>
       </div>
     </header>
 
@@ -318,13 +323,13 @@
       <section id="news">
         <h2>News</h2>
         <ul class="news-list">
-          <!-- <li>
+          <li>
             <span class="news-date">12/2025</span>
-              Our paper <strong>"Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing"</strong>
-              has been accepted to <strong><em>IEEE INFOCOM 2026</em></strong>. This marks a special milestone 🚩 for our group,
-            as it is the first paper by our first PhD student, <a href="zhangxz.polyu.online"><strong>Xiangzhi Zhang</strong></a>, who joined the group in Fall 2025.
-            Congratulations 🎉🎉🎉 to Xiangzhi on this excellent achievement and a strong start to his PhD journey!
-          </li> -->
+              Our paper "Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing"
+              has been accepted to <strong><em>IEEE INFOCOM 2026</em></strong>.
+              It is the first paper by our first Ph.D. student, <a href="https://zhangxz.polyu.online"  style="color:rgb(128,0,0);"><strong>Xiangzhi Zhang</strong></a>, who joined the group in Fall 2025.
+              Congratulations 🎉 to Xiangzhi on this excellent achievement ✅ and a strong start 🚀 to his Ph.D. journey!
+          </li>
           <li>
             <span class="news-date">12/2024</span>
             If you are interested in joining my research group, please send your CV and academic
@@ -391,15 +396,14 @@
         <h2>Selected publications</h2>
         <p class="muted">
           A full list of publications is available on the
-          <a href="publications.html">publications</a>. <br />
-          <em>* indicates supervised PhD students.</em>
+          <a href="publications.html">publications</a>. <em>* indicates supervised PhD students.</em>
         </p>
         <ul class="item-list">
-          <!-- <li>
+          <li>
             Xiangzhi Zhang<strong>*</strong>, Xu Xu, Yu Liu, Yingling Mao, Bin Xiao, Yuanyuan Yang (2026).<br />
             <span class="pub-title">Joint Optimization of Circuit Transformation and Qubit Mapping for Distributed Quantum Computing.</span><br />
             <span class="pub-venue">IEEE Conference on Computer Communications (INFOCOM).</span>
-          </li> -->
+          </li>
           <li>
             Yu Liu, Yingling Mao, Xu Xu, Xiaojun Shang, Fan Ye, Yuanyuan Yang (2025).<br />
             <span class="pub-title">A Nonblocking Multistage Switching Network for Distributed Quantum Computing.</span><br />
@@ -441,5 +445,3 @@
   </script>
 </body>
 </html>
-
-
